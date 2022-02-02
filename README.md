@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jojoknorst, a Mathematics Ph.D. candidate and coding enthusiast.
-- 👀 I’m interested in using coding to enhance routine activities and to run mathematical experiments, which could help on Mathematics research. Nonetheless, I consider to use coding skills to work on jobs or projects outside academia. 
+- 👋 Hi, I’m a brazilian Mathematics Ph.D. candidate and coding enthusiast.
+- 👀 I’m interested in using coding to enhance routine activities and to run mathematical experiments that could help on Mathematics research. Nonetheless, I consider to use coding skills to work on jobs or projects outside academia. 
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: say Hi to jojoknorst@gmail.com
